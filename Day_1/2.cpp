@@ -1,5 +1,1 @@
-int main()
-{
-	cout<<"tum ";
-	return ;
-}
+asdcs
